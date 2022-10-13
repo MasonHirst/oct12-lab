@@ -53,5 +53,5 @@ function revealMessage() {
     message.classList.remove('hide')
     setTimeout(function() {
         message.classList.add('hide')
-    }, 2000)
+    }, 1000)
 }
